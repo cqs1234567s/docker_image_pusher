@@ -1,3 +1,4 @@
+quay.io/prometheuscommunity/postgres-exporter
 nginx
 prom/alertmanager:latest
 apache/skywalking-oap-server:9.2.0
