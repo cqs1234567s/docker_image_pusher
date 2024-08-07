@@ -1,1 +1,1 @@
-yenigul/dockernettools
+amd64/nginx
